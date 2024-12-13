@@ -35,3 +35,22 @@ This project involves performing advanced Exploratory Data Analysis (EDA) on a d
    - Heatmaps to show correlations.
    - Bar charts for genre and author popularity.
    - Line graphs for sales trends over years.
+  
+   - ## How to Run the Project
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/AmanRai264/bestselling-books-eda.git
+   ```
+2. Navigate to the project directory:
+   ```bash
+   cd bestselling-books-eda
+   ```
+3. Install the required libraries:
+   ```bash
+   pip install -r requirements.txt
+   ```
+4. Open the Jupyter Notebook:
+   ```bash
+   jupyter notebook
+   ```
+5. Run the notebook `bestselling_books_eda.ipynb` to view the analysis.
