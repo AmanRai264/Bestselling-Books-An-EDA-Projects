@@ -61,3 +61,8 @@ This project showcases the power of advanced EDA in uncovering meaningful insigh
 ## Author
 **Aman Rai**
 - Aspiring Data Analyst | Passionate about data-driven insights.
+
+Feel free to reach out on [LinkedIn](in/aman-rai-0333a4319) or [GitHub](https://github.com/AmanRai264) for collaboration or feedback.
+
+---
+**Disclaimer**: This project is for educational purposes only.
