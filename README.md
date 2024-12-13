@@ -9,3 +9,12 @@ This project involves performing advanced Exploratory Data Analysis (EDA) on a d
 - Advanced statistical analysis and visualization.
 - Insights into trends like genre popularity, price ranges, and ratings.
 - Identification of correlations and key drivers of book sales.
+
+## Tools & Technologies
+- **Python**: Primary programming language for data analysis.
+- **Libraries**: 
+  - `pandas` for data manipulation.
+  - `numpy` for numerical computations.
+  - `matplotlib` and `seaborn` for data visualization.
+  - `scipy` and `statsmodels` for statistical analysis.
+- **Jupyter Notebook**: For interactive coding and visualization.
