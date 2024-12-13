@@ -18,3 +18,20 @@ This project involves performing advanced Exploratory Data Analysis (EDA) on a d
   - `matplotlib` and `seaborn` for data visualization.
   - `scipy` and `statsmodels` for statistical analysis.
 - **Jupyter Notebook**: For interactive coding and visualization.
+
+- 
+## Project Highlights
+1. **Data Cleaning**:
+   - Handled missing or inconsistent values.
+2. **Exploratory Analysis**:
+   - Distribution of book genres.
+   - Trends in book prices and user ratings.
+   - Analysis of top-performing authors.
+3. **Insights Derived**:
+   - Identified genres with the highest sales.
+   - Found correlations between price, ratings, and reviews.
+   - Highlighted yearly trends in bestselling books.
+4. **Visualizations**:
+   - Heatmaps to show correlations.
+   - Bar charts for genre and author popularity.
+   - Line graphs for sales trends over years.
