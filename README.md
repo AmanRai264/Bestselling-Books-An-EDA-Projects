@@ -54,3 +54,10 @@ This project involves performing advanced Exploratory Data Analysis (EDA) on a d
    jupyter notebook
    ```
 5. Run the notebook `bestselling_books_eda.ipynb` to view the analysis.
+
+## Conclusion
+This project showcases the power of advanced EDA in uncovering meaningful insights from data. The analysis provides a detailed understanding of what makes a book successful, paving the way for further research and applications in the publishing industry.
+
+## Author
+**Aman Rai**
+- Aspiring Data Analyst | Passionate about data-driven insights.
